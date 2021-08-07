@@ -1,0 +1,5 @@
+The pie plot of mouse sex data indicates that the study designers properly controlled for sexual variance in tumor growth activity by properly representing both sexes equally, if not identically.
+
+The statistical summary data of all drug regimen indicates that the measurement of variance of overall tumor volume could serve as an alternate indicator of overall success of the drug treatment. All four core drugs (Capomulin, Ceftamin, Infubinol and Ramicane) represented the lowest four values of variance in the table.
+
+Tumor volume for the Capomulin Regimen shows a very strong correlation (+84% correlated) between the weight of the mouse and the size of the tumor. This proportional impact of mouse weight to tumor volume should be investigated in future analysis of the data for a parallelly proportional decrease in size of large tumors size in larger mice.
